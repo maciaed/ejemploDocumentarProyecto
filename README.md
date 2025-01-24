@@ -71,7 +71,7 @@ Por favor, lee [CONTRIBUTING.md](CONTRIBUTING.md) para detalles sobre nuestro c√
 
 ## Control de versiones
 
-Usamos Git y Github para el versionado. Para las versiones disponibles, consulta las [etiquetas en este repositorio](https://github.com/your/project/tags).
+Usamos Git y Github para el versionado. Para las versiones disponibles, consulta las [etiquetas en este repositorio](https://github.com/maciaed/ejemploDocumentarProyecto/tags).
 
 ## Autores
 
