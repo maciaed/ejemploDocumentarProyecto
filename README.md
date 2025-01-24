@@ -46,7 +46,7 @@ Explica qué prueban estas pruebas y por qué.
 Dar un ejemplo
 ```
 
-### Y pruebas de estilo de código
+### Y otro tipo de pruebas
 
 Explica qué prueban estas pruebas y por qué.
 
@@ -79,7 +79,7 @@ Usamos Git y Github para el versionado. Para las versiones disponibles, consulta
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE.md](LICENSE.md) para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE.md](LICENSE) para más detalles.
 
 
 ## Agradecimientos
